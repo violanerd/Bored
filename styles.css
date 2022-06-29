@@ -1,0 +1,17 @@
+#display-data {
+    line-height: 5;
+    font-size: 2rem;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#tag {
+    font-size: .8rem;
+}
+
