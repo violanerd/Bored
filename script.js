@@ -3,7 +3,7 @@ var buttonEl = document.getElementById("the-button");
 
 function getNewActivity () { 
 
-    var url = "http://www.boredapi.com/api/activity/";
+    var url = "https://www.boredapi.com/api/activity/";
 
     var displayEl = document.getElementById("display-data");
 
