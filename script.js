@@ -18,3 +18,5 @@ function getNewActivity () {
         })
 }
 buttonEl.addEventListener("click", getNewActivity);
+
+// Thanks to the Bored API! http://www.boredapi.com/
